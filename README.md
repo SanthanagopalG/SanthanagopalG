@@ -13,6 +13,8 @@
 
 - 💡 Proficient in **Python** good in **JavaScript** and frameworks **Django**, **Node.js.**
 
+- ⚡ Fun fact **I think I'm not a boring person.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
