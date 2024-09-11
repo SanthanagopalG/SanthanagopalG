@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **santhanagopalan.gh@gmail.com**
 
+- 🎯 Goals: **become a proficient developer.**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
