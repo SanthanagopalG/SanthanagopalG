@@ -3,12 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhanagopalg&label=Profile%20views&color=0e75b6&style=flat" alt="santhanagopalg" /> </p>
 
+- 👨‍💻 Recent Computer Engineering Graduate **@Sri Manakula Vinayagar Engineering College**
+
 - 🌱 I’m currently learning **Full stack Data Analytics.**
 
 - 📫 How to reach me **santhanagopalan.gh@gmail.com**
 
 - 🎯 Goals: **become a proficient developer.**
 
+- 💡 Proficient in Python good in JavaScript and frameworks Django, Node.js
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
