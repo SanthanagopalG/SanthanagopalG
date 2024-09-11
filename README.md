@@ -11,7 +11,7 @@
 
 - 🎯 Goals: **become a proficient developer.**
 
-- 💡 Proficient in **Python** good in **JavaScript** and frameworks **Django**, **Node.js.**
+- 💡 Proficient in **Python.com** good in **JavaScript** and frameworks **Django**, **Node.js.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
